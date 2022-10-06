@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e2c1fd-d307-4b02-a657-1585b7e698ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FiwMyaety5Ytg7IGrPP9PuB68U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DZ_9 Erarxia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e2c1fd-d307-4b02-a657-1585b7e698ac" name="Changes" comment="" />
+      <created>1664988170133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664988170133</updated>
+      <workItem from="1664988171560" duration="373000" />
+      <workItem from="1664988869319" duration="168000" />
+      <workItem from="1664989060732" duration="176000" />
+      <workItem from="1664989385569" duration="123000" />
+      <workItem from="1664989537984" duration="26000" />
+      <workItem from="1664989585873" duration="163000" />
+      <workItem from="1664989997653" duration="263000" />
+      <workItem from="1664990323963" duration="339000" />
+      <workItem from="1664990706413" duration="743000" />
+      <workItem from="1664991592130" duration="256000" />
+      <workItem from="1664991870528" duration="52000" />
+      <workItem from="1664991954865" duration="556000" />
+      <workItem from="1664992557587" duration="958000" />
+      <workItem from="1664993576737" duration="106000" />
+      <workItem from="1664993694213" duration="214000" />
+      <workItem from="1664993931148" duration="666000" />
+      <workItem from="1664994616355" duration="3616000" />
+      <workItem from="1665055772401" duration="834000" />
+      <workItem from="1665056749137" duration="1204000" />
+      <workItem from="1665061180173" duration="115000" />
+      <workItem from="1665061323971" duration="729000" />
+      <workItem from="1665065107862" duration="740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
